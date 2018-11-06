@@ -1,0 +1,23 @@
+= Manifesto for technological sovereignty and citizens' digital rights for cities
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+:page-layout: manifesto
+
+== Our values and beliefs
+
+We believe in technological sovereignty for cities, in a form that ...
+
+== Thus our core values are
+
+* Technological sovereignty, including data sovereignty
+* Digital rights for citizens
+* Interoperability and accessibility
+* Collaborative development, through sharing and pooling of resources
+* Citizen and industry participation in technology design and governance
+* Transparency and auditability, security and privacy
+
+== Our goals
+
+All municipal digital policies give priority to ...
