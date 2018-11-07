@@ -1,4 +1,4 @@
-name: glossary
-title: Glossary
+name: index
+title: Manifesto for technological sovereignty and citizens' digital rights for cities
 version: 0.1
-start_page: ROOT:glossary.adoc
+start_page: ROOT:index.adoc
