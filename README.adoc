@@ -20,7 +20,7 @@
 //
 // MANDATORY. Title of the document. In web format, it appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:_title: Manifesto for technological sovereignty and citizens' digital rights for cities
+:_title: Manifesto for technological sovereignty and digital rights for cities
 //
 // OPTIONAL. Subtitle of the document.
 :_subtitle:
@@ -41,7 +41,7 @@
 :revdate: {docdate}
 //
 // MANDATORY. Short summary of the contents of the document. 4 lines max.
-:_summary: Manifesto in favor technological sovereignty and citizens' digital rights for cities.
+:_summary: Manifesto in favor of technological sovereignty and digital rights for cities.
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
