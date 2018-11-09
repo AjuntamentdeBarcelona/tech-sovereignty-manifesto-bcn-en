@@ -1,4 +1,4 @@
-= Manifesto in favour of technological sovereignty and digital rights for cities
+= Manifesto in favour of technological sovereignty and digital rights for cities (beta)
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
@@ -7,9 +7,43 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == Our values and beliefs
 
-We believe in technological sovereignty for cities, in a form that ...
+.	We believe in *technological sovereignty* for cities, for full control and autonomy of their Information and Communications Technologies (ICTs), including service infrastructures, websites, applications and data, in compliance with and with the support of laws that protect the interests of municipalities and their citizens.
++
+****
+Technological sovereignty helps cities protect citizens’ rights through greater accessibility, transparency and accountability required for open government.
+****
 
-== Thus our core values are
+.	We believe that *citizens’ digital rights* must be placed at the centre of cities’ digital policies and protected through the implementation of Technological Sovereignty and digital democracy policies.
++
+****
+Citizens’ digital rights include the rights of privacy, security, information self-determination and neutrality, giving citizens a choice about what happens to their digital identity, who uses their data online, and for which purposes. Digital democracy enables more citizen participation in design and governance of cities and city services.
+****
+
+.	We believe that *Free Software*, *Open Data* and *Open Standards*, *Document and Data formats and communication protocols* are the bases for technological sovereignty for cities and best support the digital rights of our citizens.
++
+****
+Free Software, Open Data and Open Standards, Formats and Protocols provide cities and citizens with tools enabling non-discriminatory access to and provision of digital services. This is not just a technology paradigm, but a culture that helps individuals and communities to protect their digital rights as well as to achieve innovation and reach goals that are beneficial for society in a collaborative manner.
+****
+
+.	We believe that *Free Software* provides a solid foundation to achieve better levels of *efficiency*, *stability* and *interoperability* required for cities’ ICT platforms, through source code ownership, collaborative development and sharing, all of which enable participation in digital services’ security, validation and improvement.
++
+****
+Municipal investment and participation in Free Software projects help developing local skills and contribute to technologies which can reinforce citizens’ digital rights while bringing benefits to the local economy. Free Software offers value for money in terms of long term sustainability and local economic development that is greater than any short term financial gains.
+****
+
+.	We believe that *Open City Data* is a necessary element of technological sovereignty and must be managed and provided in an ethical, transparent, accessible and sustainable manner.
++
+****
+As well as supporting local innovation, Open City Data empowers citizens and enables better data-driven decision making in cities and, by providing visibility and accountability, induces more trust in local government and greater citizen engagement in policy making.
+****
+
+.	We believe that the mandatory adoption of *Open Standards, Document and Data formats and Communication Protocols* will improve transparency, coordination between public authorities and collaboration with the private sector.
++
+****
+Shared, open cross-government standards, formats and protocols make services better for users and cheaper to run. Open standards simplify access to information by all organisations and individuals that want to participate in the City’s development.
+****
+
+Thus our core values are
 
 * Technological sovereignty, including data sovereignty
 * Digital rights for citizens
@@ -20,4 +54,38 @@ We believe in technological sovereignty for cities, in a form that ...
 
 == Our goals
 
-All municipal digital policies give priority to ...
+All municipal digital policies give priority to the protection of citizens’ digital rights, reflect their wishes and are based on their participation.
+
+Municipal ICTs implement and support citizens’ digital rights, including privacy, security, accountability and neutrality by design; and give citizens the ability to decide what happens to their digital identity, who uses their data, and for which purposes.
+
+All municipal digital services are implemented through Free Software and all hardware is under the control of the city and runs Free Software.
+
+Cities publish the components of their ICT service infrastructures and share them with other cities, to allow for wider participation in improving these shared components, individually or collectively.
+
+All components of city ICTs conform to open standards, document and data formats and communication protocols.
+
+All data processed and published by cities does not require the purchase and/or use of proprietary and/or closed source tools or services. Access and use of municipal digital services will not require members of the public to run any software that is not Free.
+
+Cities benefit from and foster a local ecosystem of partners, providers and users with demonstrated experience in providing Free Software and Open Data based ICT services and infrastructures, using Open Standards, formats and protocols. All City tenders for ICT services can be fulfilled by members of the local ICT sector with skills in Free Software and Open Data.
+
+Cities’ ICTs enable citizens to access, visualize, and analyse public information, and promote greater civic engagement and participation, e.g. through documented APIs so that users can develop their own software to request city services. City web sites have no tracker tags, do not use resources from third party sites, and all their functionalities operate properly even if the user's browser does not execute Javascript code.
+
+== Actions to achieve our goals
+
+Cities shall develop and implement a digital rights and equality agenda, track and monitor the respect for citizens’ digital rights, and jointly create tools and resources to help advance this effort.
+
+Cities shall procure ICT services based on Free Software and only consider non-Free offers when a Free Software based offer is not available. Procurement of components for Cities ICT infrastructures shall enable offers based exclusively on Free Software and shall award projects to Free Software based offers when submitted.
+
+Cities shall review and publish as Free Software existing components of its ICT Infrastructure in which it holds the rights to do so. In addition, Cities shall identify those elements of its ICT infrastructure that are opportunities for implementing with or substituting by Free Software.
+
+Cities shall use hardware resources controlled by the City itself adopting appropriate technical and organizational measures to ensure the protection of their citizens’ and visitors’ data and privacy.
+
+Cities shall pool their ICT Infrastructure budgets for common procurement of Free Software technologies and services, and tools for publishing Open Data sets.
+
+Cities shall develop internally appropriate Free Software and Open Data related skills to achieve autonomous management of their ICT infrastructures and services.
+
+Cities shall promote and support local Free Software and Open Data based enterprise and community through developing skills, encouraging networking, supporting Free Software and Open Data enterprise, user groups and events, and providing financial and other types of resources.
+
+Cities shall support and encourage the development of Free Software, Open Data and Digital Rights curricula in their municipal area educational institutions, to create a culture of openness and collaboration that will then support the cities’ ICT policies for the future.
+
+Cities shall review and publish as Open data all non-confidential or private data generated by municipal ICTs and provide platforms for other entities to do the same, to promote a transparent and collaborative relationship between city government and citizens.
