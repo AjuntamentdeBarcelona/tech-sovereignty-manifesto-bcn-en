@@ -12,7 +12,7 @@
 //
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/USERNAME/REPONAME'.
-:_public_repo_url: https://github.com/AjuntamentdeBarcelona/manifesto-tech-sover-bcn-en
+:_public_repo_url: https://github.com/AjuntamentdeBarcelona/tech-sovereignty-manifesto-bcn-en
 
 //
 // MANDATORY.
