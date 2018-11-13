@@ -1,1 +1,11 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+.$$MAIN
 * xref:index.adoc[Manifesto for technological sovereignty and citizens' digital rights for cities]
+
+.$$BOTTOM
+* xref:{lang}/glossary:ROOT:glossary.adoc[Guides glossary]
+// * link:{attachmentsdir}/barcelona_manifesto_{revnumber}.{lang}.pdf[Download PDF]
