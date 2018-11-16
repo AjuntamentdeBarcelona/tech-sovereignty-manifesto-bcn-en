@@ -1,9 +1,11 @@
-= Manifesto in favour of technological sovereignty and digital rights for cities (beta)
+= Manifesto in favour of technological sovereignty and digital rights for cities
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 :page-layout: manifesto
+
+{revnumber}
 
 == Our values and beliefs
 
