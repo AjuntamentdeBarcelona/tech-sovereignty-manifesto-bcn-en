@@ -5,7 +5,7 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 :page-layout: manifesto
 
-{revnumber}
+v {revnumber}
 
 == Our values and beliefs
 
