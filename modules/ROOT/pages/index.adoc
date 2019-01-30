@@ -7,9 +7,9 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 v {revnumber}
 
-{authors}
+_Authors_: {authors}
 
-With the contributions of {_contributors}
+_Contributors_: {_contributors}
 
 == Our values and beliefs
 
