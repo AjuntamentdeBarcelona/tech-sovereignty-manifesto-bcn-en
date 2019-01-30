@@ -26,7 +26,7 @@
 :_subtitle:
 //
 // MANDATORY. Comma-separated list of names.
-:authors: Francesca Bria, Malcolm Bain
+:authors: Francesca Bria (chair), Malcolm Bain (coordinator)
 //
 // OPTIONAL. Comma-separated list of names.
 :_contributors: Richard Stallman, Javier Ruiz, Roberto Di Cosmo, Paolo Vecchi, Sergio Amadeu
