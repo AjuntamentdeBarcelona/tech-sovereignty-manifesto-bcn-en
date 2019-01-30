@@ -7,6 +7,10 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 v {revnumber}
 
+{authors}
+
+With the contributions of {_contributors}
+
 == Our values and beliefs
 
 .	We believe in *technological sovereignty* for cities, for full control and autonomy of their Information and Communications Technologies (ICTs), including service infrastructures, websites, applications and data, in compliance with and with the support of laws that protect the interests of municipalities and their citizens.
