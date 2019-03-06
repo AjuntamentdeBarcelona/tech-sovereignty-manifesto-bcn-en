@@ -29,7 +29,7 @@
 :authors: Francesca Bria (Chair), Malcolm Bain (coordinator)
 //
 // OPTIONAL. Comma-separated list of names.
-:_contributors: Richard Stallman, Javier Ruiz, Roberto Di Cosmo, Renata Avila, Paolo Vecchi, Sergio Amadeu
+:_contributors: Richard Stallman, Javier Ruiz, Roberto Di Cosmo, Renata Ávila, Paolo Vecchi, Sergio Amadeu
 //
 // OPTIONAL. Comma-separated list of names.
 :_reviewers:
