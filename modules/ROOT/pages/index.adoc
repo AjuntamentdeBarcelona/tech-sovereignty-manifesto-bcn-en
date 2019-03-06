@@ -9,7 +9,7 @@ v {revnumber}
 
 _Authors_: {authors}
 
-_Contributors_: {_contributors}
+_Contributors (Advisory Board members)_: {_contributors}
 
 == Our values and beliefs
 
