@@ -121,4 +121,4 @@ endif::[]
 This document can be forked, adapted, and reused under the conditions of the {_license} license.
 
 We--the maintainers of this project and the City of Barcelona--value your input, enjoy feedback and welcome improvements to our free software projects and documentation.
-For more details see the link:https://github.com/gmarpons/ethical-digital-standards-site/blob/master/CONTRIBUTING.adoc[CONTRIBUTING] file in the main repository of this initiative.
+For more details see the link:https://github.com/AjuntamentdeBarcelona/ethical-digital-standards-site/blob/master/CONTRIBUTING.adoc[CONTRIBUTING] file in the main repository of this initiative.
