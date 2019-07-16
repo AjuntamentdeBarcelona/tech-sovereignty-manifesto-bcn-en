@@ -120,9 +120,5 @@ endif::[]
 
 This document can be forked, adapted, and reused under the conditions of the {_license} license.
 
-This repository contains the source code for the document, written in Asciidoc.
-The public renderized version of the document can be found at {_url}[{_title}].
-You will find instructions on how to get the renderized version of this and other related documents at https://github.com/AjuntamentdeBarcelona/ethical-digital-standards-site.
-
 We--the maintainers of this project and the City of Barcelona--value your input, enjoy feedback and welcome improvements to our free software projects and documentation.
-For more details see the link:./CONTRIBUTING.adoc[CONTRIBUTING] file at the root of this repository.
+For more details see the link:https://github.com/gmarpons/ethical-digital-standards-site/blob/master/CONTRIBUTING.adoc[CONTRIBUTING] file in the main repository of this initiative.
